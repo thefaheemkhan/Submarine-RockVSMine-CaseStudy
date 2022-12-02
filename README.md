@@ -4,6 +4,10 @@
 This use case consider that is a submarine and there is a war going on between two countries so submarine of a country is going underwater to another country and the enemy country have planted some mines in the ocean. So mines are nothing but the explosives that explodes when some object comes in contact with it right so there can also be rocks in the ocean.
 ### The submarine needs to predict whether it is crossing a mine or a rock. so our job is to make a system that can predict whether the object beneath the submarine is a mine or a rock. 
 
+### Workflow : 
+<img width=src="" alt="Alt text" title="Optional title">
+
+
 ### so how this is done :
 We are using sonar data which is mounted on submarine to detect signals from sea or ocean bed. 
 what is Sonar : Active sonar transducers emit an acoustic signal or pulse of sound into the water. If an object is in the path of the sound pulse, the sound bounces off the object and returns an “echo” to the sonar transducer. If the transducer is equipped with the ability to receive signals, it measures the strength of the signal. and this case signals coming from sonar is processed to detect whether the object is a mine or it's just a rock. We are using dataset available publicly on kaggle. 
