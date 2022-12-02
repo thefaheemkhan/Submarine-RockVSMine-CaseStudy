@@ -5,7 +5,7 @@ This use case consider that is a submarine and there is a war going on between t
 ### The submarine needs to predict whether it is crossing a mine or a rock. so our job is to make a system that can predict whether the object beneath the submarine is a mine or a rock. 
 
 ### Workflow : 
-<img width=src="" alt="Alt text" title="Optional title">
+<img src="RockVSMine-Workflow.png" alt="Alt text" title="Optional title">
 
 
 ### so how this is done :
